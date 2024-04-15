@@ -11,5 +11,8 @@
 
 # 쓰기 설계
 
+![](./image/sns_feed_write.png)
 
 # 읽기 설계
+
+![](./image/sns_feed_post.png)
